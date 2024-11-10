@@ -1,6 +1,6 @@
 # Dosa vs Momos Demand Analysis in India (July 2023 - June 2024)
 
-![Dosa vs Momos Dashboard](Sanpshot.png) <!-- Replace with actual image path -->
+![Dosa vs Momos Dashboard](Snapshot.png) <!-- Replace with actual image path -->
 
 This project showcases a state-wise comparison of demand for Dosa and Momos across India using data from **Zomato Trends** ([Zomato Trends](https://www.zomato.com/trends/)), collected from July 2023 to June 2024. The dashboard, created in Tableau, visualizes how food preferences vary regionally, highlighting which states lean toward Dosa or Momos.
 
